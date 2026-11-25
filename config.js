@@ -1,4 +1,4 @@
 window.__HELIO_CONFIG = window.__HELIO_CONFIG || {
-  supabaseUrl: "https://glehklfdmlsmkqconvyc.supabase.co",
-  supabaseKey: "sb_publishable_s_aCjVkoCnKSI3enTnxU-g_d9NMYu2q",
+  supabaseUrl: "https://oswgnwxnmjberkrhwcld.supabase.co",
+  supabaseKey: "sb_publishable_iuQxHA0JIs_lonMa1tq6Tg_AyXpnMvU",
 };
